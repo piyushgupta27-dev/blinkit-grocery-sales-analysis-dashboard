@@ -26,10 +26,8 @@ The data was cleaned and transformed before analysis to ensure accurate reportin
 
 # 📊 Dashboard Preview
 
-> **Add a screenshot of your dashboard here after uploading it to GitHub.**
-
 ```md
-![BlinkIT Dashboard]('/Users/macbookpro/Desktop/Screenshot 2026-07-03 at 2.26.42 AM.png')
+![BlinkIT Dashboard](Dashboard-Screenshot.png)
 
 ```
 
