@@ -29,8 +29,7 @@ The data was cleaned and transformed before analysis to ensure accurate reportin
 > **Add a screenshot of your dashboard here after uploading it to GitHub.**
 
 ```md
-![BlinkIT Dashboard]
-<img width="1112" height="623" alt="Screenshot 2026-07-03 at 2 26 42 AM" src="https://github.com/user-attachments/assets/2f53d042-c433-479e-8e9d-9f6a48fcf871" />
+![BlinkIT Dashboard]('/Users/macbookpro/Desktop/Screenshot 2026-07-03 at 2.26.42 AM.png')
 
 ```
 
