@@ -27,7 +27,7 @@ The data was cleaned and transformed before analysis to ensure accurate reportin
 # 📊 Dashboard Preview
 
 ```md
-![BlinkIT Dashboard]('Dashboard-Screenshot.png')
+![BlinkIT Dashboard](images/Dashboard-Screenshot.png)
 
 ```
 
